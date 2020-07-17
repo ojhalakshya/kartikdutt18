@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">A passionate developer from India</h3>
+
 - 🔭 I’m currently working on implementing [YOLO models in mlpack](https://github.com/mlpack/models)
 
 - 💬 Ask me about **C++, Python and JavaScript**
